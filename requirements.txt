@@ -1,0 +1,4 @@
+datarepo>=0.1.0
+pynwb
+polars
+pyarrow
